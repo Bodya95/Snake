@@ -1,1 +1,6 @@
 c:\users\xbodya\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\xbodya\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\xbodya\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\xbodya\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\xbodya\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\xbodya\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
