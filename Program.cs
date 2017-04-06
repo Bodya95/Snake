@@ -10,9 +10,29 @@ namespace Snake
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("lol1");
+            Point p1 = new Point(1, 3, '@');
+            p1.Draw();
+            
             Console.ReadLine();
 
+            List< int> numList = new List<int>();
+            numList.Add(0);
+            numList.Add(1);
+            numList.Add(2);
+
+            int x = numList[0];
+            int y = numList[1];
+            int z = numList[2];
+
+           foreach(int i in numList)
+            {
+                Console.Write(i);
+            }
+
+            numList.RemoveAt(0);
+
+            List<Point> pList = new List<Point>();
+            pList.Add(p1);
         }
     }
 }
