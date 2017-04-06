@@ -12,10 +12,13 @@ namespace Snake
         {
             Point p1 = new Point(1, 3, '@');
             p1.Draw();
-            
+
+            HorisontalLine line = new HorisontalLine(5, 10, 8, '#');
+            line.Drow();
+
             Console.ReadLine();
 
-            List< int> numList = new List<int>();
+         /* List< int> numList = new List<int>();
             numList.Add(0);
             numList.Add(1);
             numList.Add(2);
@@ -27,12 +30,13 @@ namespace Snake
            foreach(int i in numList)
             {
                 Console.Write(i);
+                Console.ReadLine();
             }
 
             numList.RemoveAt(0);
 
             List<Point> pList = new List<Point>();
-            pList.Add(p1);
+            pList.Add(p1);*/
         }
     }
 }
